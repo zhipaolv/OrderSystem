@@ -16,6 +16,15 @@
             <groupId>com.opera</groupId>
             <artifactId>operadriver</artifactId>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/opensymphony/quartz-all -->
+        <!-- https://mvnrepository.com/artifact/opensymphony/quartz-all -->
+        <dependency>
+            <groupId>opensymphony</groupId>
+            <artifactId>quartz-all</artifactId>
+            <version>1.6.3</version>
+        </dependency>
+
+
     </dependencies>
     <dependencyManagement>
         <dependencies>
